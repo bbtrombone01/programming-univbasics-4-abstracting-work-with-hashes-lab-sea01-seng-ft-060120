@@ -8,7 +8,7 @@ end
 
 def update_counting_hash(hash, key)
   if hash[:key] == true 
-    puts progress
+    print "progress"
   end
   
 end
